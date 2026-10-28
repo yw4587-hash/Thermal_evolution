@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib>=3.5
+h5py
+jupyter
